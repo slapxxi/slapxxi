@@ -2,5 +2,5 @@
 
 <details>
   <summary>About Me</summary>
-<div><img src="assets/stats.svg" /></div>
+<div><img src="assets/timeline.svg" /></div>
   </details>
