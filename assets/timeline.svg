@@ -1,4 +1,6 @@
-<svg width="81" height="282" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="81" height="282" viewBox="0 0 81 282"fill="none" xmlns="http://www.w3.org/2000/svg">
+	<animate attributeName="viewBox" 
+           from="0 -282 81 282" to="0 0 81 282" dur="2s" repeatCount="indefinite" begin="3s" />
   <path stroke="#16F" stroke-width="2" d="M41 5v234"/>
   <circle cx="41" cy="5" r="5" fill="#16f"/>
   <circle cx="41" cy="239" r="5" fill="#16f"/>
