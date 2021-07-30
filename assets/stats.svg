@@ -1,4 +1,4 @@
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" id="root">
     <path d="m0 0h500v50h-500z" />
-    <animate attributeName="viewBox" to="0 100 500 500" dur="3s" begin="root.click" />
+    <animate attributeName="viewBox" from="0 0 500 500" to="0 100 500 500" dur="3s" begin="root.click" />
 </svg>
