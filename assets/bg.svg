@@ -8,7 +8,7 @@
       </g>
       <g fill="#1d1d2666">
         <path d="M-10-5c0 2 1 3 3 3s3-1 3-2-1-3-3-3-3 1-3 3m20 0c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3m-20 20c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3m20 0c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3"/>
-        <animateTransform attributeName="transform" type="translate" to="20" dur="1s" id="d" begin="0s;y.end"/>
+        <animateTransform attributeName="transform" type="translate" to="20" dur="1s" id="d" begin="0s;c.end"/>
         <animateTransform attributeName="transform" type="translate" to="0 20" dur="1s" id="c" begin="d.end"/>
       </g>
     </pattern>
