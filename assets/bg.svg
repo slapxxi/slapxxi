@@ -1,12 +1,12 @@
 <svg fill="none" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="e" width="5" height="5" viewBox="0 0 15 20" patternUnits="userSpaceOnUse" style="transform-origin:center">
-      <g fill="#1D1D26">
+      <g fill="#1D2127">
         <path d="M0 5c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3m20 0c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3M0 25c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3m20 0c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3" />
         <animateTransform attributeName="transform" type="translate" to="-20" dur="1s" id="y" begin="0s;x.end"/>
         <animateTransform attributeName="transform" type="translate" to="0 -20" dur="1s" id="x" begin="y.end"/>
       </g>
-      <g fill="#1d1d2666">
+      <g fill="#1D212766">
         <path d="M-10-5c0 2 1 3 3 3s3-1 3-2-1-3-3-3-3 1-3 3m20 0c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3m-20 20c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3m20 0c0 2 1 3 3 3s3-1 3-3-1-3-3-3-3 1-3 3"/>
         <animateTransform attributeName="transform" type="translate" to="20" dur="1s" id="d" begin="0s;c.end"/>
         <animateTransform attributeName="transform" type="translate" to="0 20" dur="1s" id="c" begin="d.end"/>
